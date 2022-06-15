@@ -1,0 +1,14 @@
+.Pupplr {
+    width: 100%;
+    max-width: 40rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+  }
+  
+  .Pupplr > * {
+    margin: 1rem 0;
+  }

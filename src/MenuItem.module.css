@@ -1,0 +1,28 @@
+.MenuItem {
+    width: 100%;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    background: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .NameWrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Name,
+  .Type,
+  .Calories {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-right: 0.5rem;
+  }
+  
+  .Name { color: #abe9cd; }
+  .Type { color: rgb(208, 206, 216); }
+  .Calories { color: #3eadcf; }

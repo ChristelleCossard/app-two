@@ -1,0 +1,6 @@
+.snackbar {
+    position: fixed;
+    padding: 1.5rem 2rem;
+    color: #fff;
+    border-radius: 6px;
+  }
